@@ -2,7 +2,7 @@
 // membuat array asosiatif
 $artikel = [
     "judul" => "Belajar Pemrograman PHP",
-    "penulis" => "ahmadimuslim",
+    "penulis" => "fachri rizki",
     "view" => 128
 ];
 
@@ -11,3 +11,4 @@ echo "<h2>".$artikel["judul"]."</h2>";
 echo "<p>oleh: ".$artikel["penulis"]."</p>";
 echo "<p>View: ".$artikel["view"]."</p>";
 
+echo "<p><strong> By Fachri Rizki</strong>";
