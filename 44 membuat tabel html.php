@@ -1,22 +1,6 @@
 
 
-<table>
-	<tr>
-		<th>No</th>
-		<th>Bulan</th>
-		<th>Penjualan</th>
-	</tr>';
-{
-	<tr>
-		<td>' . $no . '</td>
-		<td>' . $bulan . '</td>
-		<td>' . $nilai . '</td>
-	</tr>';
-	$no++;
-}
-$tabel .= '</table>';
-echo $tabel;
-Hasil:	
+
 <table>
 	<tr>
 		<th>No</th>

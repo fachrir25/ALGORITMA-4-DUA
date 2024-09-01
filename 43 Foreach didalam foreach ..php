@@ -9,5 +9,4 @@ $opsi_bulan .= '</select>';
 
 echo $opsi_bulan;
 
-echo "<p><strong>By Fachri Rizki</strong>";
-
+echo "<p><strong>By Fachri</strong>";
