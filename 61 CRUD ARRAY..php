@@ -12,3 +12,4 @@ $umur["Dina"] = 18; // menambah key "Dina" dengan nilai 18 ke dalam array $umur
 unset($buah[2]); // menghapus elemen dengan index 2 dari array $buah
 unset($umur["Budi"]); // menghapus elemen dengan key "Budi" dari array $umur
 unset($buah); // menghapus keseluruhan array $buah
+echo "<p><strong>By Fachri</strong>";
